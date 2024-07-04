@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T08:26:33.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_zOyOB8m2lzoByHHmCpl" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T08:27:56.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Uk5nF-g72q7AiAkQE10t" version="24.6.4" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HgkohzaY-IMT7vrD_noD-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="HgkohzaY-IMT7vrD_noD-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="10" y="180" width="830" height="430" as="geometry" />
         </mxCell>
         <mxCell id="HgkohzaY-IMT7vrD_noD-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Server&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -167,7 +167,7 @@
         <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.02;entryY=0.628;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HgkohzaY-IMT7vrD_noD-4" target="HgkohzaY-IMT7vrD_noD-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="10" y="680" width="830" height="430" as="geometry" />
         </mxCell>
         <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Server&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
