@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T08:29:43.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="oIm8TYFF8YtQfi0s_AAp" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T08:34:40.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="f0gYLqBKsFj4hVIaxk7o" version="24.6.4" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -170,13 +170,13 @@
         <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="10" y="680" width="830" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Server&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Server&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="245" y="765" width="395" height="235" as="geometry" />
         </mxCell>
         <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8sTA4ZeGQ8Bvm32bSQfZ-13" target="8sTA4ZeGQ8Bvm32bSQfZ-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Client&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Client&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="40" y="815" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-14" value="Reset User Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -189,7 +189,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Database&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-15" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Database&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="710" y="770" width="80" height="185" as="geometry" />
         </mxCell>
         <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8sTA4ZeGQ8Bvm32bSQfZ-16" target="8sTA4ZeGQ8Bvm32bSQfZ-19">
@@ -201,10 +201,10 @@
         <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8sTA4ZeGQ8Bvm32bSQfZ-17" target="8sTA4ZeGQ8Bvm32bSQfZ-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Google Console&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-17" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Google Console&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="150" y="1012.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;User email client&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-18" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;User email client&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="30" y="980" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-19" value="Create Email to users Account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -213,7 +213,7 @@
         <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8sTA4ZeGQ8Bvm32bSQfZ-20" target="8sTA4ZeGQ8Bvm32bSQfZ-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-20" value="Oauth Verification for google API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-20" value="Oauth Verification for google API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
           <mxGeometry x="260" y="1012.5" width="80" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="8sTA4ZeGQ8Bvm32bSQfZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8sTA4ZeGQ8Bvm32bSQfZ-19" target="8sTA4ZeGQ8Bvm32bSQfZ-20">
